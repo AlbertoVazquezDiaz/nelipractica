@@ -1,1 +1,2 @@
 Este es un archivo readme como parte de una tarea en Jira
+Segundo cambio
